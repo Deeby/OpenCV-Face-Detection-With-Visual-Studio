@@ -22,4 +22,4 @@
 ![](https://raw.githubusercontent.com/mertguner/OpenCV-Face-Detection-With-Visual-Studio-/master/Readme%20Files/OpenCV%20Setup%2004.png)
 * Set to [Linker]/[Input]/[Additional Dependencies] -> "opencv_world401d.lib"
 
-![](https://raw.githubusercontent.com/mertguner/OpenCV-Face-Detection-With-Visual-Studio-/master/Readme%20Files/OpenCV%20Setup%2005.png)
+![](https://raw.githubusercontent.com/mertguner/OpenCV-Face-Detection-With-Visual-Studio-/master/Readme%20Files/OpenCV%20Setup%2005-1.png)
