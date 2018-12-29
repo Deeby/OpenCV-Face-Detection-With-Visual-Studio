@@ -24,7 +24,7 @@
 
 ![](https://raw.githubusercontent.com/mertguner/OpenCV-Face-Detection-With-Visual-Studio-/master/Readme%20Files/OpenCV%20Setup%2005-1.png)
 
-* I took the test image from [Link](https://www.coca-cola.co.uk/about-us/our-people)
+* I took the test image from [Link](https://www.coca-cola.co.uk/about-us/our-people)![]()
 
 ## Final
 ![Result](https://raw.githubusercontent.com/mertguner/OpenCV-Face-Detection-With-Visual-Studio-/master/Readme%20Files/OpenCV%20Result.png)
