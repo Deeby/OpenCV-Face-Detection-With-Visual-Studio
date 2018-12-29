@@ -27,4 +27,8 @@
 * I took the test image from [Link](https://www.coca-cola.co.uk/about-us/our-people)![]()
 
 ## Final
-![Result](https://github.com/mertguner/OpenCV-Face-Detection-With-Visual-Studio-/blob/master/Readme%20Files/OpenCV%20Result.png)
+* cascade.detectMultiScale(gray, faces, 1.1, 3, CASCADE_SCALE_IMAGE, Size(30, 30));
+![Result 1](https://github.com/mertguner/OpenCV-Face-Detection-With-Visual-Studio-/blob/master/Readme%20Files/OpenCV%20Result.png)
+
+* cascade.detectMultiScale(gray, faces, 1.1, 3, CASCADE_SCALE_IMAGE, Size(10, 10));
+![Result 2](https://github.com/mertguner/OpenCV-Face-Detection-With-Visual-Studio/blob/master/Readme%20Files/OpenCV%20Result%202.png)
