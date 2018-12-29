@@ -30,5 +30,3 @@
 ##Final
 
 ![Result](https://raw.githubusercontent.com/mertguner/OpenCV-Face-Detection-With-Visual-Studio-/master/Readme%20Files/OpenCV%20Result.png)
-
-
